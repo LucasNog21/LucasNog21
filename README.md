@@ -7,7 +7,7 @@
 
 ##
 
-### Atualmente estudando:
+### Studying now:
 <div class='flex-container' >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height=30, width=30 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=30, width=30 />
